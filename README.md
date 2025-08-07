@@ -1,4 +1,4 @@
-# 🛒 Zepto E-commerce SQL Data Analyst Portfolio Project
+# 🛒 Zepto E-commerce SQL Data Analytics Project
 
 This is a professional, real-world SQL Data Analytics project built using an inventory dataset scraped from **Zepto**, one of India’s fastest-growing quick-commerce startups. The project simulates how data analysts handle raw e-commerce data — from exploration and cleaning to advanced business analysis — to derive actionable insights.
 
